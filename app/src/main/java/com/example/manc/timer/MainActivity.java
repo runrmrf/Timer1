@@ -116,22 +116,4 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-
-
-    }
-
-/*        final Handler handler = new Handler();
-        final Runnable run = new Runnable() {
-            @Override
-            public void run() {
-
-//                Insert code to be run every second
-
-                Log.i("Run", "A second must have passed!");
-                handler.postDelayed(this, 1000);
-
-            }
-        };
-
-        handler.post(run);*/
-
+}
